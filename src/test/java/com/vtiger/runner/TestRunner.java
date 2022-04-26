@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue={"com.vtiger.stepdefinitions"},
 		//plugin = { "pretty", "html:target/cucumber-reports.html" },
 	    plugin = { "pretty", "html:target/cucumber-html-report","json:target/cucumber.json" },
-		tags="@release123",
+		tags="@release",
 		//dryRun=true,
 		monochrome=true
 		
