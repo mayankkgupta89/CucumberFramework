@@ -1,4 +1,4 @@
-@release1
+@release
 Feature: Login functionality
 
 Background:
